@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PublishABMeName</key>
+	<true/>
+	<key>IsPersistent</key>
+	<true/>
+	<key>LocalNetwork</key>
+	<true/>
+	<key>LocalizableDomain</key>
+	<string>Localizable</string>
+	<key>SessionClass</key>
+	<string>BonjourServiceSession</string>
+	<key>AllowsMultipleConnections</key>
+	<false/>
+	<key>HandlesChatInvites</key>
+	<true/>
+	<key>IDSensitivity</key>
+	<integer>1</integer>
+	<key>InternalName</key>
+	<string>SubNet</string>
+	<key>DefaultBuddyListDescription</key>
+	<string>Bonjour List</string>
+	<key>DefaultBuddyIconURLs</key>
+	<array>
+		<string>Person.icns</string>
+	</array>
+	<key>Name</key>
+	<string>FullNameOfBonjour</string>
+	<key>ServiceIconURL</key>
+	<string>Bonjour.icns</string>
+	<key>ShortName</key>
+	<string>ShortNameOfBonjour</string>
+	<key>SupportsMutableGroupChatParticipants</key>
+	<true/>
+	<key>SupportsPresence</key>
+	<true/>
+	<key>SupportsDatabase</key>
+	<true/>
+</dict>
+</plist>
